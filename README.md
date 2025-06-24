@@ -63,7 +63,7 @@ rubiks-cube-solver/
 
 > If deployed using GitHub Pages:
 
-**🔗 [View Live Cube Demo](https://Rakshitha1627.github.io/rubiks-cube/)**
+**🔗 [View Live Cube Demo](https://github.com/Rakshitha1627/rubiks-cube)**
 
 Replace `yourusername` with your actual GitHub username once published.
 
