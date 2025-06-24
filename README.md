@@ -65,7 +65,6 @@ rubiks-cube-solver/
 
 **🔗 [View Live Cube Demo](https://github.com/Rakshitha1627/rubiks-cube)**
 
-Replace `yourusername` with your actual GitHub username once published.
 
 ---
 
@@ -78,24 +77,5 @@ Replace `yourusername` with your actual GitHub username once published.
 
 ---
 
-## 📦 Future Improvements
 
-- Implement actual cube state tracking to dynamically generate color strings
-- Add step counter and move history
-- Timer or stopwatch for speedsolving
-- Better UI/UX with buttons and visual indicators
-
----
-
-## 📜 License
-
-This project is for educational and demonstration purposes. Feel free to fork and build upon it.
-
----
-
-## 🙋‍♂️ Author
-
-**Rakshitha S**
-
-> Built with ❤️ as part of an intern-level coding challenge.
 
