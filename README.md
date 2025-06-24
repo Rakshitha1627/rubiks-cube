@@ -1,4 +1,4 @@
-# 🧩 Rubik’s Cube Solver (3D + 2D Visualization)
+# 🧩 Rubik’s Cube  (3D + 2D Visualization)
 
 This project is a 3D interactive Rubik’s Cube built using **HTML**, **CSS**, and **JavaScript**, with scramble and solve functionality. It also includes a **2D SVG-based face representation** using `getCubeSvg()` to visualize the cube’s state.
 
